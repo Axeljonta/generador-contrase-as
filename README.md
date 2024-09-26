@@ -16,12 +16,4 @@ Este proyecto consiste en un generador de contraseñas seguro y personalizable e
 - Python 3.x
 - Módulos: `random`, `string`
 
-## Cómo Usar
 
-1. Clona el repositorio en tu máquina local.
-2. Ejecuta el script principal.
-3. Sigue las instrucciones en pantalla para generar contraseñas seguras.
-
-## Contribuciones
-
-¡Las contribuciones son bienvenidas! Si tienes ideas para mejorar el generador de contraseñas, no dudes en abrir un issue o enviar un pull request.
